@@ -12,7 +12,7 @@ API_KEY = os.getenv('ALPHA_VANTAGE_API_KEY')
 # Alpha Vantage API URL
 BASE_URL = "https://www.alphavantage.co/query"
 
-# Define the stock symbol you are interested in (for market sentiment, use a stock like "AAPL")
+# Define the stock symbol you are interested in (for lbmarket sentiment, use a stock like "AAPL")
 symbol = "AAPL"
 
 # Function to fetch news data from Alpha Vantage
